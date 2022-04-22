@@ -1,2 +1,1 @@
-# DS-lab
-数据结构课程设计实验
+# Data Structure course assignment of HDU
